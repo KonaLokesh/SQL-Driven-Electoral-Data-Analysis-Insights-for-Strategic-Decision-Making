@@ -1,2 +1,2 @@
 # SQL-Driven-Electoral-Data-Analysis-Insights-for-Strategic-Decision-Making
-Developed a Film Rental Management System using SQL queries for revenue analysis, rental trends, and customer insights. Efficiently managed film inventory, customer data, and rental transactions, optimizing operational efficiency within the film rental industry.
+Codebase for electoral data analysis project. Used Python for data extraction from 170,000 elector PDFs. Employed SQL for database creation, storage, and analysis. Utilized OCR and regex for efficient text parsing. Crafted Tableau visualizations for actionable insights.
